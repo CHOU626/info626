@@ -13,7 +13,7 @@ body {
 
 /* === 名片主要外框 === */
 .card {
-  background: #fff;
+  background: #f3e6d4bb;
   padding: 3rem;
   border-radius: 20px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
@@ -144,3 +144,4 @@ footer {
   color: #aaa;
   margin-top: 1.5rem;
 }
+
